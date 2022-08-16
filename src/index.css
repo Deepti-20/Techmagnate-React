@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.blue-boxes {
+  margin-left: 10rem;
+  background-color: #134B8E ;
+  width: 1000px;
+  height: 150px;
+}
